@@ -1,0 +1,33 @@
+body {
+    background-image: url("wallpaper.avif");
+    background-size: 100%;
+}
+
+h1,
+h2,
+h3 {
+    color: white;
+    font-family: monospace;
+}
+
+h1 {
+    background-color: gold;
+}
+
+h2 {
+    float: right;
+    margin-top: 200px;
+    margin-right: 110px;
+}
+
+button {
+    padding: 5px;
+    font-family: monospace;
+    background-color: firebrick;
+    border-radius: 10px;
+}
+
+canvas {
+    margin-top: 30px;
+    margin-left: 10px;
+}
